@@ -29,7 +29,7 @@ I'm familiar with a range of tools, including Git for version control, Docker fo
 I've set my sights on securing a position in a forward-thinking company where I can leverage my skills and knowledge to drive long-term success. My ambition is to make a substantial impact, contributing to the growth and productivity of the organization while advancing in my personal career journey.
 
 ### 💻 Why Backend Development?
-Being a backend developer aligns perfectly with my passion for tackling challenging problems and continuously learning. I have a meticulous approach to my work, and nothing satisfies me more than seeing a program I've crafted function flawlessly. My coding journey began with Code::Blocks C++ in school, and it was there that my fascination with programming took root. Now, I'm excited to embark on a professional journey as a Java backend developer, eager to learn from experienced mentors.
+Being a backend developer aligns perfectly with my passion for tackling challenging problems and continuously learning. I have a meticulous approach to my work, and nothing satisfies me more than seeing a program I've crafted function flawlessly. My programming journey started from school back in 2019 with Code::Blocks C++ in school, and it was there that my fascination with programming took root. Now, I'm excited to embark on a professional journey as a Java backend developer, eager to learn from experienced mentors.
 
 ### 🤝 Commitment to Development and Teamwork
 For me, learning is the driving force that keeps me engaged and motivated. I view every day as an opportunity to overcome challenges and acquire new skills.
