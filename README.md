@@ -23,7 +23,7 @@ I have extensive experience with Java programming and have developed proficiency
 
 <b>• Environment:</b> Intellij IDEA Ultimate
 
-<b>• Other technologies:</b> Postman, OpenAPI
+<b>• Other technologies:</b> Git, Postman, OpenAPI
 
 <h3>Android development</h3>
 
