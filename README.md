@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Passionate Java / Kotlin developer from Ukraine :ukraine: </h3>
 
-I have extensive experience with Java programming and have developed proficiency in various technologies and practices. Additionally, I am currently learning Kotlin. With a passion for creating top-notch software solutions, I have been programming for 18 months and have completed 18 personal projects during my studies. <b>I am open to various suggestions, so please contact me if you are interested in my work.</b>
+I have extensive experience in ***Java Backend stack*** and have developed proficiency in various technologies and practices. I also understand the programming of ***Android applications***. With a passion for creating top-notch software solutions, I have been programming for ***2 years*** and have completed ***22 personal projects*** during my programming journeys. <b>I am open to various suggestions, so please contact me if you are interested in my work.</b>
 
 ## 👨‍💻 Skills
 <h3>Java development</h3>
